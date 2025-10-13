@@ -2,9 +2,9 @@
 
 Atom feed for <https://www.anthropic.com/engineering>
 
-Publishes an Atom feed at https://[username].github.io/anthropic-engineering-feed/atom.xml
+Publishes an Atom feed at https://ryan-serpico.github.io/anthropic-engineering-feed/atom.xml
 
-If you just want the most recent 20 items (as opposed to all items) use this feed instead: https://[username].github.io/anthropic-engineering-feed/atom-recent-20.xml
+If you just want the most recent 20 items (as opposed to all items) use this feed instead: https://ryan-serpico.github.io/anthropic-engineering-feed/atom-recent-20.xml
 
 ## About
 
