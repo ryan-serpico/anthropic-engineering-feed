@@ -18,6 +18,28 @@ Inspired by [simonw/ollama-models-atom-feed](https://github.com/simonw/ollama-mo
 
 ## Local Development
 
+### Using uv (recommended - faster)
+
+1. Install [uv](https://docs.astral.sh/uv/):
+
+```bash
+curl -LsSf https://astral.sh/uv/install.sh | sh
+```
+
+2. Run the scraper (uv will automatically handle dependencies):
+
+```bash
+uv run --with click --with beautifulsoup4 --with requests --with lxml python scrape_anthropic_blog.py 'https://www.anthropic.com/engineering'
+```
+
+Or test with a local HTML file:
+
+```bash
+uv run --with click --with beautifulsoup4 --with requests --with lxml python scrape_anthropic_blog.py file:///path/to/saved-page.html
+```
+
+### Using pip (traditional)
+
 1. Install dependencies:
 
 ```bash
