@@ -22,10 +22,9 @@ jobs:
         enable-cache: true
     - name: Set up Python
       run: uv python install 3.13
-    - name: Install dependencies and run scraper
+    - name: Run scraper
       run: |
-        uv pip install --system -r requirements.txt
-        uv run python scrape_anthropic_blog.py 'https://www.anthropic.com/engineering'
+        uv run --with click --with beautifulsoup4 --with requests --with lxml python scrape_anthropic_blog.py 'https://www.anthropic.com/engineering'
     - name: Commit and push
       run: |-
         git config user.name "Automated"
