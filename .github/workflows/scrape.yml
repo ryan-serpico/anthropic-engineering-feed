@@ -4,8 +4,8 @@ on:
   push:
   workflow_dispatch:
   schedule:
-  # Daily at 6:26 AM UTC
-  - cron: '26 6 * * *'
+  # Every 6 hours at 26 minutes past the hour (0:26, 6:26, 12:26, 18:26 UTC)
+  - cron: '26 0,6,12,18 * * *'
 
 permissions:
   contents: write
