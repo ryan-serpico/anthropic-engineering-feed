@@ -6,13 +6,13 @@
     <name>Anthropic</name>
   </author>
   <link href="https://www.anthropic.com/engineering" rel="self"/>
-  <updated>2025-10-14T18:37:51.285963+00:00</updated>
+  <updated>2025-10-15T00:42:41.485076+00:00</updated>
   <entry>
     <title>Building agents with the Claude Agent SDK</title>
     <id>https://www.anthropic.com/engineering/building-agents-with-the-claude-agent-sdk</id>
     <link href="https://www.anthropic.com/engineering/building-agents-with-the-claude-agent-sdk"/>
     <summary>The Claude Agent SDK is a collection of tools that helps developers build powerful agents on top of Claude Code. In this article, we walk through how to get started  and share our best practices.</summary>
-    <updated>2025-10-14T18:37:51.286394+00:00</updated>
+    <updated>2025-10-15T00:42:41.485518+00:00</updated>
     <content type="html">&lt;p&gt;The Claude Agent SDK is a collection of tools that helps developers build powerful agents on top of Claude Code. In this article, we walk through how to get started  and share our best practices.&lt;/p&gt;&lt;p&gt;&lt;img src="https://www-cdn.anthropic.com/images/4zrzovbb/website/521a945a74f2d25262db4a002073aaeec9bc1919-1000x1000.svg" alt="Building agents with the Claude Agent SDK" /&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
