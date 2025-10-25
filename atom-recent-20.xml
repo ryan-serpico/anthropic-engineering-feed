@@ -6,13 +6,13 @@
     <name>Anthropic</name>
   </author>
   <link href="https://www.anthropic.com/engineering" rel="self"/>
-  <updated>2025-10-25T06:36:24.056491+00:00</updated>
+  <updated>2025-10-25T12:39:43.231230+00:00</updated>
   <entry>
     <title>Beyond permission prompts: making Claude Code more secure and autonomous</title>
     <id>https://www.anthropic.com/engineering/claude-code-sandboxing</id>
     <link href="https://www.anthropic.com/engineering/claude-code-sandboxing"/>
     <summary>Claude Code's new sandboxing features, a bash tool and Claude Code on the web,  reduce permission prompts and increase user safety by enabling two boundaries: filesystem and network isolation.</summary>
-    <updated>2025-10-25T06:36:24.056939+00:00</updated>
+    <updated>2025-10-25T12:39:43.231695+00:00</updated>
     <content type="html">&lt;p&gt;Claude Code's new sandboxing features, a bash tool and Claude Code on the web,  reduce permission prompts and increase user safety by enabling two boundaries: filesystem and network isolation.&lt;/p&gt;&lt;p&gt;&lt;img src="https://www-cdn.anthropic.com/images/4zrzovbb/website/0321b0ecbbf53535e93be1310ae1935157bcebdd-1000x1000.svg" alt="Beyond permission prompts: making Claude Code more secure and autonomous" /&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
