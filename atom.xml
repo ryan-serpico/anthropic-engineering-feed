@@ -6,14 +6,21 @@
     <name>Anthropic</name>
   </author>
   <link href="https://www.anthropic.com/engineering" rel="self"/>
-  <updated>2025-11-04T18:38:26.806721+00:00</updated>
+  <updated>2025-11-05T00:42:51.931502+00:00</updated>
+  <entry>
+    <title>Code execution with MCP: Building more efficient agents</title>
+    <id>https://www.anthropic.com/engineering/code-execution-with-mcp</id>
+    <link href="https://www.anthropic.com/engineering/code-execution-with-mcp"/>
+    <summary>Direct tool calls consume context for each definition and result. Agents scale better by writing code to call tools instead. Here's how it works with MCP.</summary>
+    <updated>2025-11-05T00:42:51.931953+00:00</updated>
+    <content type="html">&lt;p&gt;Direct tool calls consume context for each definition and result. Agents scale better by writing code to call tools instead. Here's how it works with MCP.&lt;/p&gt;&lt;p&gt;&lt;img src="https://www-cdn.anthropic.com/images/4zrzovbb/website/42f40f6fae9ec2d7cf2e5a98908a16d0216b91be-1000x1000.svg" alt="Code execution with MCP: Building more efficient agents" /&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Beyond permission prompts: making Claude Code more secure and autonomous</title>
     <id>https://www.anthropic.com/engineering/claude-code-sandboxing</id>
     <link href="https://www.anthropic.com/engineering/claude-code-sandboxing"/>
-    <summary>Claude Code's new sandboxing features, a bash tool and Claude Code on the web,  reduce permission prompts and increase user safety by enabling two boundaries: filesystem and network isolation.</summary>
-    <updated>2025-11-04T18:38:26.807162+00:00</updated>
-    <content type="html">&lt;p&gt;Claude Code's new sandboxing features, a bash tool and Claude Code on the web,  reduce permission prompts and increase user safety by enabling two boundaries: filesystem and network isolation.&lt;/p&gt;&lt;p&gt;&lt;img src="https://www-cdn.anthropic.com/images/4zrzovbb/website/0321b0ecbbf53535e93be1310ae1935157bcebdd-1000x1000.svg" alt="Beyond permission prompts: making Claude Code more secure and autonomous" /&gt;&lt;/p&gt;</content>
+    <updated>2025-10-20T12:00:00+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;img src="https://www-cdn.anthropic.com/images/4zrzovbb/website/33d37e1ae729f4e960d11fecf143ac14c0fb369d-500x500.svg" alt="Beyond permission prompts: making Claude Code more secure and autonomous" /&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>Equipping agents for the real world with Agent Skills</title>
