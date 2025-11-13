@@ -6,13 +6,13 @@
     <name>Anthropic</name>
   </author>
   <link href="https://www.anthropic.com/engineering" rel="self"/>
-  <updated>2025-11-13T12:40:37.006283+00:00</updated>
+  <updated>2025-11-13T18:38:13.957348+00:00</updated>
   <entry>
     <title>Code execution with MCP: Building more efficient agents</title>
     <id>https://www.anthropic.com/engineering/code-execution-with-mcp</id>
     <link href="https://www.anthropic.com/engineering/code-execution-with-mcp"/>
     <summary>Direct tool calls consume context for each definition and result. Agents scale better by writing code to call tools instead. Here's how it works with MCP.</summary>
-    <updated>2025-11-13T12:40:37.006720+00:00</updated>
+    <updated>2025-11-13T18:38:13.957784+00:00</updated>
     <content type="html">&lt;p&gt;Direct tool calls consume context for each definition and result. Agents scale better by writing code to call tools instead. Here's how it works with MCP.&lt;/p&gt;&lt;p&gt;&lt;img src="https://www-cdn.anthropic.com/images/4zrzovbb/website/42f40f6fae9ec2d7cf2e5a98908a16d0216b91be-1000x1000.svg" alt="Code execution with MCP: Building more efficient agents" /&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
